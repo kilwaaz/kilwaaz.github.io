@@ -23,6 +23,9 @@ theme: jekyll-theme-hacker
 
 rss: rss
 
+github:
+  is_project_page: false
+
 kramdown:
   syntax_highlighter_opts:
     disable: true
