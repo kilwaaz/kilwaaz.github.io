@@ -21,7 +21,7 @@ description: "WIP"
 #########################################################################################
 theme: jekyll-theme-hacker
 
-rss: rss
+#rss: rss
 
 github:
   is_project_page: false
