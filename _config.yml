@@ -20,11 +20,11 @@ description: "WIP"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: jekyll-theme-hacker
-
-#rss: rss
-
 github:
   is_project_page: false
+#rss: rss
+
+
 
 kramdown:
   syntax_highlighter_opts:
